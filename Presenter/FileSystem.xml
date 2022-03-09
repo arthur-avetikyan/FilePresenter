@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Root Name="People" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\">
+  <Folder Name="Freya" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Freya\">
+    <Folder Name="Images" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Freya\Images\">
+      <File Name="Freya_by_C._E._Doepler.jpg" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Freya\Images\Freya_by_C._E._Doepler.jpg">
+
+      </File>
+      <File Name="freya_by_irenhorrors.jpg" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Freya\Images\freya_by_irenhorrors.jpg">
+
+      </File>
+    </Folder>
+    <Folder Name="Legend" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Freya\Legend\">
+      
+    </Folder>
+  </Folder>
+
+  <Folder Name="Jane" Path ="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Jane\">
+    <Folder Name="Season_1" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Jane\Season_1\">
+      <File Name="jane_season_1.jpg" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Jane\Season_1\jane_season_1.jpg">
+
+      </File>
+    </Folder>
+    <Folder Name="Season_2" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Jane\Season_2\">
+      <File Name="jane_season_2.jpg" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Jane\Season_2\jane_season_2.jpg">
+
+      </File>
+    </Folder>
+  </Folder>
+
+  <Folder Name="Kyle" Path ="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Kyle\">
+    <Folder Name="Notes" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Kyle\Notes\">
+      <File Name="Diary.txt" Path="C:\Users\arthu\source\repos\FilePresenter\Presenter\People\Kyle\Notes\Diary.txt">
+
+      </File>
+    </Folder>
+  </Folder>
+</Root>

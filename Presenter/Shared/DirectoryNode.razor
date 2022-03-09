@@ -1,0 +1,21 @@
+﻿<h6>@Directory.Display</h6>
+
+@if (Directory.IsComposite)
+{
+    foreach (var child in Directory.GetChildren())
+    {
+        if (child.IsComposite)
+        {
+            <DirectoryNode Directory="@child"></DirectoryNode>
+        }
+        else if (child.IsFile)
+        {
+            <button name="@child.Preview">@child.Display</button>
+        }
+        else
+        {
+            <p>@child.Display</p>
+        }
+        <br>
+    }
+}
